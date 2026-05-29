@@ -1,0 +1,6 @@
+{
+  "name": "Alibaba HR",
+  "description": "Enterprise-Grade Employee Attendance & HR Management System for Alibaba Centre Shop 1 (Kids Hall) and Shop 2 (Men's Hall). Integrated biometric WebAuthn simulation, late deduction tracking, and payroll engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
